@@ -1,0 +1,48 @@
+{
+  "type": "TruckCollection",
+  "truckList": [
+    {
+      "type": "Truck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5000,
+          42.6000
+
+        ]
+      },
+      "properties": {
+        "plate": "CB5634KL"
+      }
+    },
+
+    {
+      "type": "Truck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5200,
+          42.6020
+        ]
+      },
+      "properties": {
+        "plate": "CB5234KM"
+      }
+    },
+
+    {
+      "type": "Truck",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.5140,
+          42.6140
+
+        ]
+      },
+      "properties": {
+        "plate": "CB7643TY"
+      }
+    }
+  ]
+}
